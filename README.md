@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Prateek7805
+- 👀 I’m interested in IOT
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on IOT Automation
+- 📫 Reach me at [prateekelectronmechanics@gmail.com]
