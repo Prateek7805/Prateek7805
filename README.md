@@ -2,4 +2,4 @@
 - 👀 I’m interested in IOT, Web development, automation and more
 - 🌱 I’m passionate about Web Development
 - 💞️ I’m looking to collaborate on Web Development, IOT, Automation
-- 📫 Reach me at [prateekm7805@gmail.com](mailto:prateekm7805@gmail.com), [linkedIn](www.linkedin.com/in/prateek7805)
+- 📫 Reach me at [prateekm7805@gmail.com](mailto:prateekm7805@gmail.com), [linkedIn](https://linkedin.com/in/prateek7805)
